@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1540 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Calibri">@font-face { font-family: "Calibri"; font-style: normal; font-weight: 100; font-stretch: normal; font-unicode-range: U+0-10FFFF; font-variant: normal; font-feature-settings: normal; }</style>
+  </defs>
+  <rect x="650" y="30" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.985848, 626.377808, -0.493253)">Python Type Data</text>
+  <rect x="1040" y="195" width="240" height="44.37" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.972061, 1016.377319, 164.932709)">Sequence Type</text>
+  <rect y="195" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.985863, -23.622425, 164.505432)">None</text>
+  <rect x="260" y="195" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.985863, 236.377487, 164.505798)">Numeric</text>
+  <rect x="520" y="195" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.985864, 496.377502, 164.505371)">Boolean</text>
+  <rect x="780" y="195" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828303, 0, 0, 0.985864, 756.377686, 164.504974)">Set</text>
+  <rect x="1300" y="195" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828303, 0, 0, 0.985864, 1276.378052, 164.505859)">Dictionary</text>
+  <line style="stroke: rgb(0, 0, 0);" x1="770" y1="75" x2="770" y2="135"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="120" y1="135" x2="1420" y2="135"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="900" y1="135" x2="900" y2="195"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="1160" y1="135" x2="1160" y2="195"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="1420" y1="135" x2="1420" y2="195"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="120" y1="135" x2="120" y2="195"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="380" y1="135" x2="380" y2="195"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="650" y1="135" x2="650" y2="195"/>
+  <rect x="1040" y="360" width="240" height="44.37" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.972061, 1016.377258, 329.933105)">List</text>
+  <rect y="360" width="240" height="44.37" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.972061, -23.622444, 329.932739)">Integer</text>
+  <rect x="260" y="360" width="240" height="44.37" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.972061, 236.377426, 329.933105)">Float</text>
+  <rect x="520" y="360" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828302, 0, 0, 0.985864, 496.377502, 329.505768)">Complex Number</text>
+  <rect x="780" y="360" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828303, 0, 0, 0.985864, 756.377625, 329.505371)">Strings</text>
+  <rect x="1300" y="360" width="240" height="45" style="fill: none; stroke-width: 0.2px; stroke: rgb(0, 0, 0);"/>
+  <text x="172.287" y="64.193" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Calibri&quot;; font-size: 28px; text-anchor: middle;" transform="matrix(0.828303, 0, 0, 0.985864, 1276.37793, 329.506256)">Tuple</text>
+  <line style="stroke: rgb(0, 0, 0);" x1="900" y1="300" x2="1420" y2="300"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="900" y1="300" x2="900" y2="360"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="1160" y1="300" x2="1160" y2="360"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="1420" y1="300" x2="1420" y2="360"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="120" y1="300" x2="120" y2="360"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="380" y1="300" x2="380" y2="360"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="650" y1="300" x2="650" y2="360"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="120" y1="300" x2="649.997" y2="300"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="1160" y1="240" x2="1160" y2="300"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="380" y1="240" x2="380" y2="300"/>
+</svg>

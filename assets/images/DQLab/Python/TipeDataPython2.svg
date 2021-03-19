@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="10" y="10" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+		<style>
+		
+		table, th, td {
+			font-family: "Calibri";
+			border: 1px solid black;
+			border-collapse: collapse;
+			padding: 2.5px 5px;
+		}
+		span {
+			display: block;
+		}
+		</style>
+      <table>
+		<thead>
+			<tr>
+				<th colspan="2">Tipe Data</th><th>Keterangan dan Contoh</th><th>Konversi ke tipe data ini</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td colspan="2">None Type</td>
+				<td>Hanya memiliki satu nilai None</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td rowspan="2">Numerik</td>
+				<td>int</td>
+				<td>
+					<span>Seluruh bilangan bulat</span>
+					<span><i>Contoh</i>: -20; -4; 0; 3; 125</span>
+				</td>
+				<td>
+					<span>Gunakan fungsi <b><small>int()</small></b></span>
+					<span><i>Contoh</i>: int(5,3) → 5;</span>
+					<span>int("6") → 6</span>
+				</td>
+			</tr>
+			<tr>
+				<td>float</td>
+				<td>
+					<span>Seluruh bilangan riil, yaitu bilangan</span>
+					<span>yang dapatt ditulis dalam bentuk desimal.</span>
+					<span><i>Contoh</i>: -9.52; 0.2512; 11.68</span>
+				</td>
+				<td>
+					<span>Gunakan fungsi <b><small>float()</small></b></span>
+					<span><i>Contoh</i>: float(3) → 3.0;</span>
+					<span>float("9.23") → 9.23</span>
+				</td>
+			</tr>
+			<tr>
+				<td>Boolean</td>
+				<td>bool</td>
+				<td>
+					<span>Hanya memiliki dua nilai <b><small>True</small></b> dan <b><small>False</small></b></span>
+				</td>
+				<td>
+					<span>Gunakan fungsi <b><small>bool()</small></b></span>
+					<span><i>Contoh</i>: bool(1) → True;</span>
+					<span>bool(0) → False</span>
+				</td>
+			</tr>
+		</tbody>
+	  </table>
+    </body>
+  </foreignObject>
+</svg>
