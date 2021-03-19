@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-  <foreignObject x="10" y="10" width="800" height="600">
+<svg viewBox="0 0 561 235">
+  <foreignObject x="10" y="10" width="561" height="235">
     <body xmlns="http://www.w3.org/1999/xhtml">
 		<style>
-		
 		table, th, td {
 			font-family: "Calibri";
 			border: 1px solid black;
