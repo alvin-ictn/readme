@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="6.877 24.068 481.089 155.017" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Calibri">@font-face { font-family: Calibri; font-style: normal; font-weight: 400; font-stretch: normal; font-variant: normal; font-feature-settings: normal; }</style>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="247.276" y1="138.357" x2="247.276" y2="165.516" id="gradient-0" spreadMethod="pad" gradientTransform="matrix(0.022382, 0.999749, -2.491501, 0.055779, 617.626795, -103.073431)">
+      <stop offset="0" style="stop-color: rgba(246, 217, 88, 1)"/>
+      <stop offset="1" style="stop-color: rgb(64, 124, 171);"/>
+    </linearGradient>
+  </defs>
+  <rect x="17.735" y="36.679" width="337.006" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: rgb(248, 153, 57);"/>
+  <rect x="178.836" y="70.062" width="175.478" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: rgb(19, 6, 84);"/>
+  <rect x="18.407" y="70.108" width="153.498" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: rgb(0, 59, 113);"/>
+  <rect x="361.426" y="70.12" width="116.455" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: rgb(16, 82, 120);"/>
+  <rect x="361.219" y="36.502" width="116.455" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: rgb(104, 148, 201);"/>
+  <rect x="17.582" y="104.16" width="459.483" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: rgb(233, 188, 48);"/>
+  <rect x="17.534" y="138.357" width="459.483" height="27.159" style="stroke-width: 0.2px; stroke: rgb(0, 0, 0); fill: url(#gradient-0); paint-order: fill;"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="157.114" y="55.729">Scikit-learn</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="81.303" y="89.974">Scipy</text>
+  <text style="fill: rgb(223, 4, 134); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="246.462" y="89.846">Pandas</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="397.945" y="56.05">Seaborn</text>
+  <text style="fill: rgb(244, 244, 244); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="391.937" y="89.613">Matplotlib</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="227.837" y="123.625">Numpy</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Calibri; font-size: 13px; font-weight: 500; letter-spacing: -0.5px; white-space: pre;" x="229.232" y="157.603">Python</text>
+</svg>
