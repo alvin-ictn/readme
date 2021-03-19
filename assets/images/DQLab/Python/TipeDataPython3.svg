@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1300 950" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <foreignObject x="10" y="10" width="1300" height="950">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+		<style>
+		table, th, td {
+			font-family: "Calibri";
+			border: 1px solid black;
+			border-collapse: collapse;
+			padding: 2.5px 5px;
+		}
+		span {
+			display: block;
+		}
+		</style>
+      <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="background-color: #c1d632;" colspan="2" width="161">
+<p><strong>Tipe Data</strong></p>
+</td>
+<td style="background-color: #c1d632;" width="293">
+<p><strong>Keterangan dan Contoh</strong></p>
+</td>
+<td style="background-color: #c1d632;" width="235">
+<p><strong>Konversi ke tipe data ini</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="102">
+<p>Sequence</p>
+</td>
+<td width="60">
+<pre>str</pre>
+</td>
+<td width="293">
+<p>Tipe data teks yang dapat berupa huruf, kata, frasa, kalimat atau paragraf yang diapit oleh ‘ atau “</p>
+<p><em>Contoh</em>:</p>
+<p>“a”; ‘b’; ‘saya’; “Belajar Python”; “Kita makan nasi goreng”</p>
+</td>
+<td width="235">
+<p>Gunakan fungsi <strong>str()</strong></p>
+<p><em>Contoh</em>:</p>
+<p>str(5.3) → “5.3”;</p>
+<p>str([1, ‘buku’]) → "[1, 'buku']"</p>
+</td>
+</tr>
+<tr>
+<td width="60">
+<pre>list</pre>
+</td>
+<td width="293">
+<p>Urutan bilangan dan teks yang diapit oleh kurung siku dan masing-masing elemennya dipisahkan dengan koma.</p>
+<p><em>Contoh</em>:</p>
+<p>[-9.52, None, True, “saya”]</p>
+</td>
+<td width="235">
+<p>Gunakan fungsi <strong>list()</strong></p>
+<p><em>Contoh</em>:</p>
+<p>list(“buku”) → ['b', 'u', 'k', 'u'];</p>
+<p>list((1, 2, 3)) → [1, 2, 3]</p>
+<p>list({1, 3, 6, 3}) → [1, 3, 6]</p>
+</td>
+</tr>
+<tr>
+<td width="60">
+<pre>tuple</pre>
+</td>
+<td width="293">
+<p>Urutan bilangan dan teks yang diapit oleh kurung biasa dan masing-masing elemennya dipisahkan dengan koma.</p>
+<p><em>Contoh</em>:</p>
+<p>(-9.52, None, True, “saya”)</p>
+</td>
+<td width="235">
+<p>Gunakan fungsi <strong>tuple()</strong></p>
+<p><em>Contoh</em>:</p>
+<p>tuple(“buku”) → ('b', 'u', 'k', 'u');</p>
+<p>tuple((1, 2, 3)) → (1, 2, 3)</p>
+<p>tuple({1, 3, 6, 3}) → (1, 3, 6)</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>Set</p>
+</td>
+<td width="60">
+<pre>set</pre>
+</td>
+<td width="293">
+<p>Urutan bilangan dan teks yang diapit oleh kurung biasa dan masing-masing elemennya dipisahkan dengan koma. Setiap elemennya bernilai unik.</p>
+<p><em>Contoh</em>:</p>
+<p>{1, 4, 4, 3} → {1, 3, 4}</p>
+</td>
+<td width="235">
+<p>Gunakan fungsi <strong>set()</strong></p>
+<p><em>Contoh</em>:</p>
+<p>set(“buku”) → ['b', 'k', 'u'];</p>
+<p>set((1, 2, 3)) → {1, 2, 3}</p>
+<p>set([1, 3, 6, 3]) → {1, 3, 6}</p>
+</td>
+</tr>
+</tbody>
+</table>
+    </body>
+  </foreignObject>
+</svg>
